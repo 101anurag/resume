@@ -1,0 +1,70 @@
+{
+	"basics": {
+		"name": "Anurag Varshney",
+		"label": "Student",
+		"picture": "",
+		"email": "2020kuec2051@iiitkota.ac.in",
+		"phone": "+919410428000",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "HATHRAS",
+			"postalCode": "204101",
+			"city": "HATHRAS",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "101Anurag",
+				"url": "https://github.com/101anurag"
+			},
+			{
+				"network": "linkedin",
+				"username": "Anurag Varshney",
+				"url": ""
+			},
+			{
+				"network": "Instagram",
+				"username": "Anurag Varshney",
+				"url": ""
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Electronics and Communication Engineering "
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Singing",
+			"keywords": [
+				"Singing"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Badminton",
+				"Cricket",
+				"Football"
+			]
+		}
+	],
+	"references": []
+}
